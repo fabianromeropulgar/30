@@ -1,6 +1,8 @@
 body {
- background-image: url("https://bl3302files.storage.live.com/y4mXF-PDghW44PEzHYvoN4ihQx3jF1uGv2mJJrquJtItUOM9xVkk5fjUJxj2tRSGhfIbOoKVC-IwNfGDVJYY3VpwMM3NAAhrxd2SXUUv3vvyMnCAmPulpEZxHohaitRnG5PqZx4vPXrFDYoVXiVGAWrxAW7q5UrwCZBdYy5lukxVWOlWpDxehnLcixYoUiE5sgzKZZJVwI44De0CkZV3xTAAH-GpsyyfJO7iIVKkM3QGFA?encodeFailures=1&width=148&height=198") no-repeat;
-  display: flex;
- justify-content: center;
+ background-image: url("https://bl3302files.storage.live.com/y4mXF-PDghW44PEzHYvoN4ihQx3jF1uGv2mJJrquJtItUOM9xVkk5fjUJxj2tRSGhfIbOoKVC-IwNfGDVJYY3VpwMM3NAAhrxd2SXUUv3vvyMnCAmPulpEZxHohaitRnG5PqZx4vPXrFDYoVXiVGAWrxAW7q5UrwCZBdYy5lukxVWOlWpDxehnLcixYoUiE5sgzKZZJVwI44De0CkZV3xTAAH-GpsyyfJO7iIVKkM3QGFA?encodeFailures=1&width=595&height=794");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center center;
+ background-size: cover;
 }
 
