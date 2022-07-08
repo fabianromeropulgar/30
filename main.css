@@ -1,6 +1,9 @@
 body {
- height: 100%;
- width: 100%;
- background: linear-gradient(to right, rgba(50, 70, 80, 0.7), rgba(30, 20, 150, 0.7)), url("https://bl3302files.storage.live.com/y4mXF-PDghW44PEzHYvoN4ihQx3jF1uGv2mJJrquJtItUOM9xVkk5fjUJxj2tRSGhfIbOoKVC-IwNfGDVJYY3VpwMM3NAAhrxd2SXUUv3vvyMnCAmPulpEZxHohaitRnG5PqZx4vPXrFDYoVXiVGAWrxAW7q5UrwCZBdYy5lukxVWOlWpDxehnLcixYoUiE5sgzKZZJVwI44De0CkZV3xTAAH-GpsyyfJO7iIVKkM3QGFA?encodeFailures=1&width=148&height=198") no-repeat fixed;
+ background: url("https://bl3302files.storage.live.com/y4mXF-PDghW44PEzHYvoN4ihQx3jF1uGv2mJJrquJtItUOM9xVkk5fjUJxj2tRSGhfIbOoKVC-IwNfGDVJYY3VpwMM3NAAhrxd2SXUUv3vvyMnCAmPulpEZxHohaitRnG5PqZx4vPXrFDYoVXiVGAWrxAW7q5UrwCZBdYy5lukxVWOlWpDxehnLcixYoUiE5sgzKZZJVwI44De0CkZV3xTAAH-GpsyyfJO7iIVKkM3QGFA?encodeFailures=1&width=148&height=198") no-repeat fixed;
+ height: 100vh;
+ overflow: hidden;
+ background-color: rgba(50, 70, 80, 0.7);
+ background-blend-mode: soft-light;
+i
 }
 
